@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd-numbered {
+  background-color: #f598bc;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#numbered2 {
+  color: hsl(244, 96%, 45%);
+  font-size:36px;
+}
+
+.odd-numbered.three {
+    font-size:24px;
+  }
+
+#numbered4 {
+    background-color:  hwb(129 67% 3%);
+    font-size:24px;
+    font-weight:bold;
+  }
